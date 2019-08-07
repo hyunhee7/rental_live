@@ -33,7 +33,6 @@
   </style>
   <script>
   window.onload = function () {
-
   var chart = new CanvasJS.Chart("chartContainer", {
       animationEnabled: true,
       title:{
@@ -643,7 +642,9 @@
   <script src="{% static 'js2/demo/chart-area-demo.js'%}"></script>
   <script src="{% static 'js2/demo/chart-pie-demo.js' %}"></script>
   <script>
+
   var ctxR = document.getElementById("radarChart").getContext('2d');
+
   var myRadarChart = new Chart(ctxR, {
     type: 'radar',
     data: {
