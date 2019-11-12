@@ -1,5 +1,5 @@
 # PCS CRM Solution
-렌탈 고객의 이탈률을 낮춰주는 CRM Solution Mockup
+렌탈 고객의 이탈률을 낮춰주는 CRM Solution 반응형 웹 UI/UX 개발
 
 
 
