@@ -1,6 +1,8 @@
 # PCS CRM Solution
 렌탈 고객의 이탈률을 낮춰주는 CRM Solution 반응형 웹 목업 개발
 
+## 사용 기술 및 개발 환경
+Python3.6.8, Django2.2.4, Bootstrap3.3.5, jQuery2.1.4
 
 
 ## Main화면
@@ -15,5 +17,3 @@
 ## 고객 분석 지표
 ![sales_analysis](https://github.com/hyunhee7/rental_live/blob/master/mywebsite/screenshot/saler_analysis.png)
 
-## 사용 기술 및 개발 환경
-Python3.6.8, Django2.2.4, Bootstrap3.3.5, jQuery2.1.4
